@@ -31,7 +31,10 @@
 			"imagePath": "bg.jpeg",
 			"description": "Spline",
 			"itemInputs": [
-                                
+				{
+                                        "fieldName": "url",
+                                        "type": "TEXT"
+                                }
                         ]
 		}
 	},
